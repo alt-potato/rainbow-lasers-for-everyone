@@ -5,5 +5,5 @@
   "author": "meconeko, Honza2268",
   "description": "Makes you laser beams RGB!\nWorks on laser turrets and peronal laser defenses, including modded ones!",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0", "? Extended-Laser-Turrets", "? Laser_Scythe", "? RampantArsenalFork", "? tech_tree_plus"]
+  "dependencies": ["base >= 2.0.0", "? Extended-Laser-Turrets", "? Laser_Scythe", "? RampantArsenalFork", "? tech_tree_plus", "? laser-walls"]
 }
