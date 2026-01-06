@@ -1,0 +1,11 @@
+{
+  "name": "RainbowLasers",
+  "version": "1.0.0",
+  "title": "Rainbow Lasers",
+  "author": "Honza2268",
+  "description": "Makes you laser beams RGB!\nWorks on laser turrets and peronal laser defenses.",
+  "factorio_version": "2.0",
+  "dependencies": [
+                    "base >= 2.0.0"
+                  ]
+}
